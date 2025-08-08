@@ -1,0 +1,9 @@
+Exercice 1 : Création de la base de données
+- Étape 1 :
+- Étape 2 :
+...
+
+Exercice 2 : Création de la table Etudiants
+- Commande SQL utilisée :
+- Explication :
+...

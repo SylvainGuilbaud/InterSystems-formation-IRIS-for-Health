@@ -1,6 +1,6 @@
-# Formation InterSystems IRIS & IRIS for Health
+# Formation InterSystems IRIS for Health
 
-Bienvenue dans cette formation pratique sur InterSystems IRIS et IRIS for Health, conçue pour les francophones.  
+Bienvenue dans cette formation pratique sur InterSystems IRIS for Health, conçue pour les francophones.  
 Ce dépôt propose des exercices progressifs pour découvrir et maîtriser ces technologies.
 
 ## Organisation du dépôt
@@ -26,7 +26,7 @@ Ce dépôt propose des exercices progressifs pour découvrir et maîtriser ces t
 ## Prérequis
 
 - Savoir utiliser Git et GitHub (clonage, branches, commits, etc.)
-- Accès à une instance InterSystems IRIS ou IRIS for Health (locale ou cloud)
+- Accès à une instance InterSystems IRIS for Health (locale ou cloud)
 - Un éditeur de texte ou un IDE compatible
 
 ---
